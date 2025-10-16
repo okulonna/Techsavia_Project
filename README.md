@@ -57,6 +57,7 @@ This sheet represents **clean HR data** containing demographic, salary, and expe
 - The **IT department** has the highest representation — suggesting that the organization is either technology-focused or relies heavily on IT operations.  
 - The **most frequent job title** is *Developer*.  
 - The **most represented country** is *Canada*, implying either headquarters or core operations there.
+<img width="1243" height="572" alt="CHIDOZIE 1" src="https://github.com/user-attachments/assets/6e8e8b5a-2621-4b34-a0c6-b079843ea21d" />
 
 ### 4.2 Salary Analysis
 - **Average salary:** ₦96,711  
@@ -67,6 +68,7 @@ This sheet represents **clean HR data** containing demographic, salary, and expe
 ### 4.3 Experience and Retention
 - **Average experience:** 8.2 years — showing a mature and stable workforce.  
 - **Correlation (0.89)** between *Length of Stay* and *Years of Experience* shows that the longer employees stay, the more experienced they become within the organization — a sign of effective retention and growth.
+<img width="1248" height="596" alt="CHIDOZIE 2" src="https://github.com/user-attachments/assets/62a0a5ef-c48e-4500-a66d-38c87bfdb0ee" />
 
 ### 4.4 Departmental Insights
 - Dominance of IT roles aligns with global organizational trends emphasizing digitization.  
