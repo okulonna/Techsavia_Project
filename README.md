@@ -1,4 +1,4 @@
-# Techsavia_Project Excel Project
+# Techsavia Excel Project
 
 ## 📘 Comprehensive Data Analysis & Insights Report on GlobalTech Solution's HR
 ### Based on: `COPY OF TECHSAVIIA1.xlsx`  
