@@ -3,7 +3,7 @@
 ## 📘 Comprehensive Data Analysis & Insights Report  
 ### Based on: `COPY OF TECHSAVIIA1.xlsx`  
 ### **Date:** October 2025  
-### **Prepared by:** ChatGPT Data Analysis Assistant  
+### **Prepared by:** Okere Ulonna Chidozie 
 
 ---
 
