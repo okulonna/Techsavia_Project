@@ -134,7 +134,4 @@ Insights reveal:
 
 With proper dashboarding and HR analytics strategy, management can translate this data into **predictive workforce planning, cost optimization, and talent development decisions.**
 
----
-
-## 9. Suggested Repository Structure (For GitHub Documentation)
 
