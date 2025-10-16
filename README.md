@@ -1,6 +1,6 @@
-# Techsavia_Project
+# Techsavia_Project Excel Project
 
-## 📘 Comprehensive Data Analysis & Insights Report  
+## 📘 Comprehensive Data Analysis & Insights Report on GlobalTech Solution's HR
 ### Based on: `COPY OF TECHSAVIIA1.xlsx`  
 ### **Date:** October 2025  
 ### **Prepared by:** Okere Ulonna Chidozie 
